@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Alvin
 
+## 🔧 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+## 📈 GitHub Stats
+[![Alvins's GitHub stats](https://github-readme-stats.vercel.app/api?username=achen718)](https://github.com/achen718/github-readme-stats)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/alvin-chen-dev)
 <!--
 **Achen718/achen718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
