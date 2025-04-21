@@ -8,7 +8,10 @@ Hi, I'm Alvin, a Front-end Engineer.
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   34 mins         ██████████████████████▒░░   88.77 %
+Other        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+YAML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
