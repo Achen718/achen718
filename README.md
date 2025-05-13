@@ -8,11 +8,11 @@ Hi, I'm Alvin, a Front-end Engineer.
   <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   37 hrs 44 mins  ███████████████████████▓░   94.12 %
-JSON         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Other        44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-JavaScript   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript   32 hrs 36 mins  ███████████████████████▒░   93.65 %
+JSON         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Other        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Bash         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Git Config   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
