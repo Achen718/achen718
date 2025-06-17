@@ -8,9 +8,9 @@ Hi, I'm Alvin, a Front-end Engineer.
   <!--START_SECTION:waka-->
 
 ```txt
-Other        6 mins          █████████████▒░░░░░░░░░░░   53.37 %
-Markdown     5 mins          ███████████▓░░░░░░░░░░░░░   46.50 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other        6 mins          ████████████▓░░░░░░░░░░░░   50.56 %
+Markdown     5 mins          ███████████░░░░░░░░░░░░░░   44.05 %
+TypeScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:waka-->
