@@ -8,11 +8,11 @@ Hi, I'm Alvin, a Front-end Engineer that's looking to make actual changes in the
   <!--START_SECTION:waka-->
 
 ```txt
-Other        4 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   32.68 %
-TypeScript   3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   23.42 %
-Markdown     1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-Python       1 hr 27 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-JSON         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Other        7 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.45 %
+TypeScript   4 hrs 16 mins   ███████░░░░░░░░░░░░░░░░░░   27.54 %
+Python       1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+JSON         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
